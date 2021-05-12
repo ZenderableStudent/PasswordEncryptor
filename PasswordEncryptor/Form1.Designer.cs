@@ -64,6 +64,7 @@ namespace PasswordEncryptor
             // 
             this.passwordToEncrypt.Location = new System.Drawing.Point(233, 60);
             this.passwordToEncrypt.Name = "passwordToEncrypt";
+            this.passwordToEncrypt.PasswordChar = '*';
             this.passwordToEncrypt.Size = new System.Drawing.Size(230, 23);
             this.passwordToEncrypt.TabIndex = 11;
             // 
