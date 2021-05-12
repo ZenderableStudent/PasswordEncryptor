@@ -20,11 +20,6 @@ namespace PasswordEncryptor
             InitializeComponent();
         }
 
-        private void textBoxZaszyfrowany_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         string publicKeySaveText = "";
         string privateKeySaveText = "";
         string encryptedPasswordSaveText = "";
